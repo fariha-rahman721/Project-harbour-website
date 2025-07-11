@@ -1,0 +1,168 @@
+
+*{
+    margin: 0,auto;
+    padding: 0;
+    
+}
+header{
+    align-items: center;
+    justify-content: space-between;
+
+    width: 1440px;
+    height: 698px;
+    padding-bottom: 20px;
+    background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav{
+    
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    width: 1140px;
+    height: 151px;
+    margin: 0px auto;
+  
+    
+}
+
+.nav-title{
+    font-size: 34px;
+    font-weight: bold;
+    color: #4E47FF;
+    width: 99px;
+    height: 51px;
+}
+
+
+.styling{
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    
+    padding: 100px 280px  30px;
+    width: 905px;
+    height: 237px;
+    
+}
+.btn-primary{
+    
+    background-color: #4E47FF;
+    
+    width: 132px;
+    height: 48px;
+    color: white;
+    border-radius: 10px;
+     border: none;
+}
+    
+        
+h1{
+    align-content: center;
+    font-size: 65px;
+    width: 905px;
+    height: 152px;
+margin-bottom: 30px;
+
+}
+
+.btn-secondary{
+    background-color: #4E47FF;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    align-items: center;
+    width: 174px;
+    height: 48px;
+    
+}
+
+.action{
+display: flex;
+align-items: center;
+
+
+margin: 0 auto;
+margin-top: 50px;
+
+    height: 800px;
+padding: 0 80px;
+}
+
+
+
+
+
+.new-btn{
+   background-color: #4E47FF;
+   
+    border: none;
+    color: white;
+    border-radius: 10px; 
+    width: 229px;
+    height: 48px;
+}
+.left-section{
+    align-items: center;
+    gap: 3px;
+}
+h1{
+    font-size: 42px;
+    font-weight: bold;
+    color: black;
+}
+.explorer{
+    font-size: 24px;
+    
+}
+.action-img{
+    
+    width: 403px;
+    height: 328px;
+    border: 1px black;
+    border-radius: 20px;
+}
+h3{
+font-size: 50px;
+align-items: center;
+justify-content: center;
+}
+.stat-section{
+    display: flex;
+    justify-items: center;
+    background-color: rgb(217, 217, 246);
+width: 1140px;
+    height: 306px;
+    border-radius: 20px;
+}
+
+    
+
+.number{
+    text-align: center;
+    font-size: 80px;
+    font-weight: bolder;
+    color: blue;
+}
+
+.description{
+    font-size: 20px;
+    color: gray;
+    margin-top: 5px;
+}
+.iconic-section{
+    display: flex;
+    gap: 20px;
+}
+.first-review{
+    width: 367px;
+    height: 243px;
+}
+
+.profile{
+    border-radius: 10px;
+}
