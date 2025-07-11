@@ -260,11 +260,26 @@ margin-top: 20px;
 .contact-text h2 {
     font-size: 2.5rem;
      text-align: center;
+     
   }        
-  
-.logo-section .nav-links a {
+  .logo-style{
+color: #4E47FF;
+  }
+.logo-section .nav-links a{
      font-size: 20px;
     font-weight: 500;
      color: #666;
   text-decoration: none; 
   }
+nav ul li{
+    display: flex;
+font-weight: 500;
+ color: #666;
+ list-style: none;
+}
+nav li a{
+    display: flex;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 40px;
+}
